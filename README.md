@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @parissaghf
 - 👀 I’m interested in Data Science, Statistics and Data Analysis.
 - 🌱 I’m currently learning R,SQL and Excel.
-- 💞️ I’m looking to collaborate on Data Analysis for petrochemical companies and also shipments and insurance field.
 - 📫 reach me by my e-mail: parissaghf@gmail.com
